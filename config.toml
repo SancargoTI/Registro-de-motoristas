@@ -1,0 +1,6 @@
+[theme]
+base="light"
+primaryColor="#6c757d"         # cinza médio
+backgroundColor="#f8f9fa"      # fundo principal claro
+secondaryBackgroundColor="#e9ecef"  # cor da sidebar (cinza claro)
+textColor="#212529"
